@@ -16,7 +16,7 @@ export default function About() {
           initial={{ opacity: 0, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.05 }}
           className="mt-4 text-lg text-purple-200/80"
         >
-          We, <span className="text-white font-semibold">Somnath Roy, Junaid Jia, Irfan and Samrat Mondal</span> with our mentor <span className="text-white font-semibold">Simran ma'am</span>, built OneStop Prime Mart around one simple idea: getting everyday essentials from nearby stores, fast.
+          We, <span className="text-white font-semibold">Somnath Roy, Junaid Jia, and Samrat Mondal</span> with our mentor <span className="text-white font-semibold">Simran ma'am</span>, built OneStop Prime Mart around one simple idea: getting everyday essentials from nearby stores, fast.
         </motion.p>
       </section>
 
